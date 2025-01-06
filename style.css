@@ -1,4 +1,3 @@
-/* Header styling */
 header {
     background-color: #007bff;
     color: white;
@@ -14,12 +13,10 @@ header {
     font-size: 1.2rem;
   }
   
-  /* Container styling */
   .container {
     margin-top: 50px;
   }
   
-  /* Styling for content-boxes */
   .content-box {
     padding: 15px;
     text-align: left;
@@ -29,7 +26,6 @@ header {
     background-color: #f9f9f9;
   }
   
-  /* List styling */
   ul.list-group {
     padding-left: 0;
   }
